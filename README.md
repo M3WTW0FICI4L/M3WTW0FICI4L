@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**M3WTW0FICI4L/M3WTW0FICI4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About me
+- 🔭 I’m currently working on ***my studies and personal formation***
+- 🌱 I’m currently learning ***whatever catches my curiosity***
+- 👯 I’m looking to collaborate on ***cool ideas and meaningful projects***
+- 🤔 I’m looking for help with ***turning ideas into functional stuff***
+- 💬 Ask me about ***what I’m learning and building***
+- ⚡ Fun fact: ***I enjoy learning new technologies just for fun***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Goals
+
+* Build useful real-world projects
+* Contribute to open source
+* Keep learning every day
+* Become a better software developer
+
+---
+
+## 📫 Contact
+
+* GitHub: M3WTW0FICI4L
+* LinkedIn: <a href="https://www.linkedin.com/in/ivan-salvadó-martorell-9a962a371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ivan Salvadó" height="30" width="40" /></a>
