@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 
----
 
 ## 👨‍💻 About me
+
 - 🔭 I’m currently working on ***my studies and personal formation***
 - 🌱 I’m currently learning ***whatever catches my curiosity***
 - 👯 I’m looking to collaborate on ***cool ideas and meaningful projects***
@@ -10,7 +10,6 @@
 - 💬 Ask me about ***what I’m learning and building***
 - ⚡ Fun fact: ***I enjoy learning new technologies just for fun***
 
----
 
 ## 📈 Goals
 
@@ -19,7 +18,6 @@
 * Keep learning every day
 * Become a better software developer
 
----
 
 ## 📫 Contact
 
