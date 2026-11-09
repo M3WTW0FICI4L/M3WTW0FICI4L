@@ -21,5 +21,10 @@
 
 ## 📫 Contact
 
-- GitHub: M3WTW0FICI4L
 - LinkedIn: <a href="https://www.linkedin.com/in/ivan-salvadó-martorell-9a962a371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ivan Salvadó" height="30" width="40" /></a>
+
+## GitHub accounts
+
+- Main: M3WTW0FICI4L
+- Secondary: M3WT2-collab
+- Scholar: I-SaMa
